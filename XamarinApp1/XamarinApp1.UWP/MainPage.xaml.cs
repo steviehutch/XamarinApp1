@@ -20,6 +20,7 @@ namespace XamarinApp1.UWP
         public MainPage()
         {
             this.InitializeComponent();
+            Xamarin.FormsMaps.Init("9diqx2Yylc2nGObz2vJe~72boTGI_Y95nNZXXwDeTfw~AgeKkBxU76GeWMtJT8L1T6pDZ48q_OmQj8jalKdp8GDIvs6oHnPWngqusYPsbTPV");
 
             LoadApplication(new XamarinApp1.App());
         }
